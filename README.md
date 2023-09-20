@@ -9,4 +9,3 @@ I have a growing passion for learning how to become a better software developer.
 I really enjoy playing video games, reading a good book, and also spending free time learning new languages. 
 By that, that includes both programming, as well as real-world languages.
 
-link: [Link to GitHub page](README.md)
